@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "636942538334",
+    "firebase_url": "https://tyrant-e4be5.firebaseio.com",
+    "project_id": "tyrant-e4be5",
+    "storage_bucket": "tyrant-e4be5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:636942538334:android:80b4558d2c5d78ec",
+        "android_client_info": {
+          "package_name": "com.klemstinegroup.rogue"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "636942538334-vfd4cgka93v0pv03qmbq13v7bh69koea.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfBoGxKSv6B3EF5DYrGUGl0EYTUUBcXIM"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
